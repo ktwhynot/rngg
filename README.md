@@ -8,7 +8,7 @@ This is a script that will train a LSTM neural network on a list of given names,
 * Which in turn requires:
   * [TensorFlow](https://www.tensorflow.org/install/)
   * [H5PY](http://www.h5py.org/)
-* Note that, if on windows, Python's package manager may fail to install scipy. In this case, it needs to be downloaded and installed manually. The wheel can be downloaded [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-learn). Grab the one that corrosponds to your python version (eg. cp35 for Python 3.5) and operating system (win32 for 32-bit or win_amd64 for 64-bit).
+* Note that, if on windows, Python's package manager may fail to install scipy. In this case, it needs to be downloaded and installed manually. The wheel can be downloaded [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-learn). Grab the one that corresponds to your python version (eg. cp35 for Python 3.5) and operating system (win32 for 32-bit or win_amd64 for 64-bit).
 
 ## Usage
 Generator.py contains settings at the top of the file. Simply edit these to your preference and run the script. Note that training may take a long time, so it's recommended that you save your model if you wish to generate more names in the future.

@@ -1,6 +1,6 @@
 # Random Name Generator Generator
 ## Introduction
-This is a script that will train a LSTM neural network on a list of given names, which can then be used to generate new names that are similar to the given ones. These new names can then be compiled in to a list and randomly drawn from, as is done with the minimal web page in the /docs folder.
+This is a script that will train a LSTM neural network on a list of given names, which can then be used to generate new names that are similar to the given ones. These new names can then be compiled in to a list and randomly drawn from, as is done with the [minimal web page](https://ktwhynot.github.io/rngg/) in the /docs folder.
 
 ## Requirements
 * [Python 3.5](https://www.python.org/downloads/release/python-352/)
